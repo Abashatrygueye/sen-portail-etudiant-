@@ -1,7 +1,4 @@
-
-les paramètres du Admin
-user: Shatry221
-password: aba221
+Sen Portail Etudiant est une plateform de vérification des notes d'examens
 
 
 
